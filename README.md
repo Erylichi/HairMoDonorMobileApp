@@ -1,4 +1,5 @@
 # Hair Mo! Donor Mobile Application – An Online Hair Supply Information and Communication Platform 
+![gh-how-to-donate-hair-1642087485](https://user-images.githubusercontent.com/102384528/182991325-6a1783bf-19ce-44be-997c-ef9ea4bf3f56.png)
 # Problem
 With the rapid growth of social media sites around the world, the number of requests for hair donors has increased; they reach out through Facebook and Twitter to request hair donations. The struggles of an individual fighting cancer is draining, not just physically but emotionally and mentally. Most cancer patients are unable to purchase a wig because to a lack of funds; a human hair wig costs a lot of money when purchased in a parlor shop. Numerous individuals are about developing their hair since they need to sell it to parlors. But these days, we ought to increment the number of people with great hearts who are willing to give their hair for free. It's not about making a gift, but about making a difference. The main goal of application is to educate the community about the benefits and importance of hair donation
 # Solution
